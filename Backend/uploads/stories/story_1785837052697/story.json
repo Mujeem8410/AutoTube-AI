@@ -1,0 +1,66 @@
+{
+  "title": "बेबी डिनो और मदद की जादू",
+  "description": "एक प्यारा बेबी डिनो सीखता है कि दूसरों की मदद करना कितना मज़ेदार और महत्वपूर्ण है! आओ देखें उसकी कहानी।",
+  "moral": "दूसरों की मदद करने से हमें और उन्हें भी खुशी मिलती है।",
+  "characters": [
+    "बेबी डिनो"
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "text": "देखो! ये है हमारा प्यारा बेबी डिनो, जंगल में खुशी-खुशी खेल रहा है!",
+      "voice": "खुश और उत्साहपूर्ण बच्चे की आवाज़",
+      "imagePrompt": "A very cute, friendly baby dinosaur with big eyes, playing joyfully in a vibrant, cartoon-style jungle. Sun is shining, flowers are blooming.",
+      "duration": 4
+    },
+    {
+      "scene": 2,
+      "text": "तभी, उसे एक छोटा सा पक्षी ज़मीन पर गिरा हुआ दिखता है, थोड़ा उदास।",
+      "voice": "हल्की चिंतित बच्चे की आवाज़",
+      "imagePrompt": "Close-up of a small, sad baby bird with big eyes on the ground, a little distance from a tree. Baby dino looks on with concern.",
+      "duration": 3
+    },
+    {
+      "scene": 3,
+      "text": "ओह! बेबी डिनो सोचता है, 'मुझे इस छोटे दोस्त की मदद करनी चाहिए!'",
+      "voice": "प्यारा और दयालु डिनो की आवाज़",
+      "imagePrompt": "Baby dino looking thoughtfully at the bird. A cartoon thought bubble above his head showing a gentle helping hand icon.",
+      "duration": 4
+    },
+    {
+      "scene": 4,
+      "text": "वह अपनी छोटी नाक से धीरे से पक्षी को उठाता है और पास की डाल पर रख देता है।",
+      "voice": "प्यारी और प्रोत्साहित करने वाली बच्चे की आवाज़",
+      "imagePrompt": "Baby dino carefully and gently nudging the baby bird with his snout onto a low, sturdy tree branch. The bird looks surprised but safe.",
+      "duration": 3
+    },
+    {
+      "scene": 5,
+      "text": "पक्षी खुशी से चहकता है और पंख फड़फड़ाकर उड़ जाता है! बेबी डिनो बहुत खुश है।",
+      "voice": "बहुत खुश और आनंदित बच्चे की आवाज़",
+      "imagePrompt": "The small bird happily chirping and flying off into the sky. Baby dino smiling broadly with a proud and happy expression.",
+      "duration": 4
+    },
+    {
+      "scene": 6,
+      "text": "फिर, उसे एक छोटा पौधा मुरझाया हुआ दिखता है, जिसे पानी की ज़रूरत है।",
+      "voice": "थोड़ी उदास, सोचने वाली बच्चे की आवाज़",
+      "imagePrompt": "A small, cartoon-style plant looking wilted and dry in cracked brown soil. Baby dino observes it with a soft gaze.",
+      "duration": 3
+    },
+    {
+      "scene": 7,
+      "text": "बेबी डिनो भागकर पास की नदी से एक बड़ा पत्ता भरकर पानी ले आता है और पौधे को देता है।",
+      "voice": "दृढ़ और मददगार बच्चे की आवाज़",
+      "imagePrompt": "Baby dino quickly carrying a large, green leaf filled with sparkling water from a nearby river and gently pouring it onto the wilted plant.",
+      "duration": 4
+    },
+    {
+      "scene": 8,
+      "text": "देखो! पौधा फिर से हरा-भरा हो गया! मदद करना कितना अच्छा लगता है! मदद करो, खुश रहो!",
+      "voice": "बहुत खुश और सकारात्मक बच्चे की आवाज़, अंत में उत्साहपूर्ण ध्वनि",
+      "imagePrompt": "The small plant now vibrant green and healthy, sparkling with life. Baby dino beaming with immense pride and joy. A colourful text overlay: 'मदद करो, खुश रहो!'",
+      "duration": 5
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "title": "नन्हे डीनो की मदद!",
+  "description": "देखो कैसे हमारा प्यारा नन्हा डीनो दोस्त दूसरों की मदद करके सबको खुश करता है! एक दिल छू लेने वाली कहानी!",
+  "moral": "दूसरों की मदद करने से बहुत खुशी मिलती है और सब खुश रहते हैं।",
+  "characters": [
+    "बेबी डीनो",
+    "छोटी तितली"
+  ],
+  "scenes": [
+    {
+      "scene": 1,
+      "text": "देखो, ये है हमारा प्यारा नन्हा डीनो! वह आज कितना खुश है, खेल रहा है!",
+      "voice": "उत्साहित, बच्चों वाली आवाज़ में",
+      "imagePrompt": "A cute, happy baby dino with big, sparkling eyes, playing joyfully in a vibrant green park with colorful flowers under a bright sunny sky. He looks adorable and full of energy.",
+      "duration": 4
+    },
+    {
+      "scene": 2,
+      "text": "अरे, वहां क्या है? एक छोटी, रंगीन तितली एक डाल में फँसी हुई है! वह उड़ नहीं पा रही है।",
+      "voice": "थोड़ा चिंतित और हल्की जिज्ञासा वाली आवाज़ में",
+      "imagePrompt": "A small, beautiful colorful butterfly struggling gently, its wing caught in a delicate leafy branch. Baby dino sees it from a distance, looking curious and a bit concerned.",
+      "duration": 4
+    },
+    {
+      "scene": 3,
+      "text": "तितली कितनी दुखी लग रही है! नन्हा डीनो सोचता है, 'मुझे कुछ करना होगा! मुझे उसकी मदद करनी चाहिए!'",
+      "voice": "सोचने वाली, सहानुभूति भरी आवाज़ में",
+      "imagePrompt": "Close-up of baby dino's face, showing a concerned and thoughtful expression. His big eyes are fixed on the struggling butterfly in the background.",
+      "duration": 3
+    },
+    {
+      "scene": 4,
+      "text": "डीनो ने मदद करने का फैसला किया। वह धीरे-धीरे और बहुत सावधानी से तितली के पास जाता है।",
+      "voice": "दृढ़ निश्चय वाली, शांत आवाज़ में",
+      "imagePrompt": "Baby dino carefully and gently approaching the struggling butterfly. His expression is determined yet kind and careful, not wanting to scare the butterfly.",
+      "duration": 3
+    },
+    {
+      "scene": 5,
+      "text": "बहुत सावधानी से, नन्हे डीनो ने अपने छोटे हाथों से तितली के पंख को डाल से आज़ाद किया।",
+      "voice": "शांत और सहयोगी आवाज़ में",
+      "imagePrompt": "Baby dino carefully and gently using his small claws or snout to free the butterfly's wing from the branch. The butterfly looks slightly relieved and hopeful.",
+      "duration": 5
+    },
+    {
+      "scene": 6,
+      "text": "वाह! तितली अब आज़ाद है और खुशी से उड़ रही है! वह डीनो के चारों ओर चक्कर लगाकर उसे धन्यवाद कहती है।",
+      "voice": "खुश और हल्की, मधुर आवाज़ में",
+      "imagePrompt": "The colorful butterfly happily fluttering away in the sky, making a small joyful circle around baby dino as if to say 'thank you'. Baby dino smiles broadly, watching it fly.",
+      "duration": 4
+    },
+    {
+      "scene": 7,
+      "text": "डीनो को बहुत अच्छा लगा! दूसरों की मदद करके कितनी खुशी मिलती है! उसका दिल खुशियों से भर गया।",
+      "voice": "बहुत खुश और संतुष्ट आवाज़ में",
+      "imagePrompt": "Baby dino looking extremely happy and proud, beaming with a wide, joyful smile, perhaps doing a little playful hop or dance.",
+      "duration": 4
+    },
+    {
+      "scene": 8,
+      "text": "तो बच्चों, हमेशा दूसरों की मदद करो। इससे तुम भी खुश रहोगे और सब भी! मदद करना सबसे अच्छा काम है!",
+      "voice": "प्रेरक और शिक्षाप्रद आवाज़ में, अंत में उत्साह के साथ",
+      "imagePrompt": "Baby dino waving goodbye to the camera with a big smile, surrounded by happy, diverse cartoon animals. The background displays a cheerful, colorful message in Hindi: 'मदद करो, खुश रहो!' (Help, Be Happy!).",
+      "duration": 3
+    }
+  ]
+}
